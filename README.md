@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This is where you can learn more about me and explore my work.
 
-## About Me 👩‍💼
+## About Me 👧🏻
 
 I'm Divya Renganathan, a passionate Front-End Developer. I'm dedicated to creating engaging and user-friendly web experiences. 
 
