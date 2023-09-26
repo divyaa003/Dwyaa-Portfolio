@@ -1,0 +1,85 @@
+nav{
+    background-color: #2a262a38;
+}
+
+body{
+    background-color: #151415;
+    /* overflow-x: hidden; */
+}
+.nav-link{
+    font-size: larger;
+    font-weight: bold;
+}
+.custom-toggler-icon {
+    background-color: #b475e3; 
+    border-radius: 2px; 
+}
+.custom-toggler-icon::before {
+    background-color: transparent; 
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color:#b475e3 !important;
+    font-size: 20px;
+}
+/* a:hover{
+    font-size: 20px;
+} */
+.fade-in-text {
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+}
+
+/* @keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+} */
+/* .different-animation {
+            opacity: 0;
+            animation: differentFadeIn 2s forwards;
+        } */
+footer{
+    margin: 0 ;
+    /* padding: 30px 0 !important;  */
+}
+
+/* @keyframes pulse {
+    0% {
+        color: #b475e3;
+    }
+    50% {
+        color: white;
+    }
+    100% {
+        color: #b475e3;
+    }
+}
+.pulse {
+    animation: pulse 2s infinite;
+} */
+/* Add a class for the fade in and out effect with color change */
+/* Add a class for the fade in and out effect with color change */
+.fade-in-out-color {
+    animation: fadeInOutColor 4s linear infinite;
+}
+
+@keyframes fadeInOutColor {
+    0%, 100% {
+        opacity: 0;
+    }
+    25%, 75% {
+        opacity: 1;
+    }
+    0%, 50% {
+        color: white;
+    }
+    50%, 100% {
+        color: #b475e3;
+    }
+}
+
+
+

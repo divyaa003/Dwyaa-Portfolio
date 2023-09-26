@@ -1,0 +1,44 @@
+.custom-card {
+    transition: transform 0.2s ease-in-out;
+    box-shadow: 0 2px 4px #c38eeb; /* Mild shadow */
+  }
+  .custom-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 8px #b475e3;
+}
+  nav{
+    background-color: #2a262a38;
+}
+
+body{
+    background-color: #151415;
+    /* overflow-x: hidden; */
+}
+.nav-link{
+    font-size: larger;
+    font-weight: bold;
+}
+.custom-toggler-icon {
+    background-color: #b475e3; 
+    border-radius: 2px; 
+}
+.custom-toggler-icon::before {
+    background-color: transparent; 
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color:#b475e3 !important;
+    font-size: 20px;
+}
+
+
+footer{
+    margin: 0 ;
+    /* padding: 30px 0 !important;  */
+}
+
+.rounded-pill:hover{
+    background-color: #b475e3;
+    color: #151415 !important;
+}
+
+
