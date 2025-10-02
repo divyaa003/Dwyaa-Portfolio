@@ -5,7 +5,7 @@ Welcome to my portfolio! This space showcases my journey, skills, and projects a
 ## About Me 👩🏻‍💻  
 
 I'm **Divya Renganathan**, currently working as an **Associate Quality Service at Amazon (Chennai)**.  
-I’m passionate about **Software Testing, Automation, and Development**. My goal is to continuously learn, enhance my skills, and build a strong career in **Automation Testing and Full-Stack Development**.  
+I’m passionate about **Software Testing, Automation, and Development**. My goal is to continuously learn, enhance my skills, and build a strong career in **Automation Testing**.  
 
 ## Sections 📋  
 
