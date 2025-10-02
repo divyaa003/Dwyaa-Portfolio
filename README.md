@@ -1,39 +1,44 @@
-# Divya Renganathan's Portfolio 🌟
+# Divya Renganathan's Portfolio 🌟  
 
-Welcome to my portfolio website! This is where you can learn more about me and explore my work.
+Welcome to my portfolio! This space showcases my journey, skills, and projects as I grow in the world of technology.  
 
-## About Me 👧🏻
+## About Me 👩🏻‍💻  
 
-I'm Divya Renganathan, a passionate Front-End Developer. I'm dedicated to creating engaging and user-friendly web experiences. 
+I'm **Divya Renganathan**, currently working as an **Associate Quality Service at Amazon (Chennai)**.  
+I’m passionate about **Software Testing, Automation, and Development**. My goal is to continuously learn, enhance my skills, and build a strong career in **Automation Testing and Full-Stack Development**.  
 
-## Sections 📋
+## Sections 📋  
 
-- **Home**: Get to know me and my personal introduction.
-- **About**: Discover more about my background, skills, and interests.
-- **Projects**: Explore the web projects I've worked on and see my skills in action.
-- **Resume**: Download my detailed resume to learn about my experience and qualifications.
+- **Home** – A quick introduction about me.  
+- **About** – My background, career journey, and professional interests.  
+- **Projects** – A showcase of my academic and personal projects in **Java, SQL, Frontend, and Testing**.  
+- **Resume** – My detailed resume highlighting experience, skills, and qualifications.  
 
-## Visit My Portfolio 🚀
+## Visit My Portfolio 🚀  
 
-You can explore my portfolio by visiting [Divya Renganathan's Portfolio](https://divyaa003.github.io/Dwyaa-Portfolio/).
+You can explore my portfolio here:  
+👉 [Divya Renganathan’s Portfolio](https://divyaa003.github.io/Dwyaa-Portfolio/)  
 
-## Technologies Used 💻
+## Skills & Technologies 💻  
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Font Awesome Icons
-- Google Fonts
+- **Programming:** Java, Python (learning for automation)  
+- **Databases:** Oracle SQL  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Testing:** Manual Testing, Robot Framework (learning), Automation Testing (in progress)  
+- **Tools:** GitHub, JIRA, VS Code, Postman  
 
-## Contact Me 📧
+## Current Focus 🎯  
 
-Feel free to connect with me on LinkedIn or explore my GitHub profile:
+- Building expertise in **Automation Testing with Robot Framework & Python**  
+- Strengthening **Full-Stack Development** knowledge  
+- Preparing for **Automation Tester roles in product-based companies**  
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/divya-renganathan-525a59256/)
-- GitHub: [Explore my GitHub projects](https://github.com/divyaa003)
+## Contact Me 📧  
 
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/divya-renganathan-525a59256/)  
+- GitHub: [Explore my projects](https://github.com/divyaa003)  
 
+---
 
-Designed & Developed by Divya Renganathan
-© 2023 Copyright: DwyaaR
+✨ Designed & Developed by **Divya Renganathan**  
+© 2025 Copyright: DwyaaR  
